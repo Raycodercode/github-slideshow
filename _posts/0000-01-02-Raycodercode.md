@@ -2,5 +2,5 @@
 layout: slide
 title:"Welcome to our second slide!:
 ---
-Your text
+naruto says: i'm number one!
 Use the left arrow to go back!
